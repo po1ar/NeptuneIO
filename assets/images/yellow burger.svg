@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="77.034"
+   height="76.874"
+   viewBox="0 0 77.034 76.874"
+   version="1.1"
+   id="svg36"
+   sodipodi:docname="greenshoe.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview38"
+     showgrid="false"
+     inkscape:zoom="11.057054"
+     inkscape:cx="38.516998"
+     inkscape:cy="38.437"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Sport_Shoe" />
+  <defs
+     id="defs31">
+    <linearGradient
+       id="linear-gradient"
+       x1="0.402"
+       y1="-0.215"
+       x2="0.5"
+       y2="1"
+       gradientUnits="objectBoundingBox">
+      <stop
+         offset="0"
+         stop-color="#361cc1"
+         id="stop26" />
+      <stop
+         offset="1"
+         stop-color="#2e82ef"
+         id="stop28" />
+    </linearGradient>
+  </defs>
+  <path
+     id="Path_7"
+     data-name="Path 7"
+     d="m 18.075,0.9312 c 20.551,-4.888 58.959,28.731 58.959,46.987 0,18.256 -53.043,34.067 -67.837,28.142 -14.794,-5.925 -11.673,-70.24 8.878,-75.129 z"
+     fill="url(#linear-gradient)"
+     style="fill:#00ff00" />
+  <!-- Code injected by live-server -->
+  <script
+     type="text/javascript"
+     id="script34">
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]></script>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 2">
+    <g
+       id="Sport_Shoe"
+       transform="matrix(2.4149716,0,0,3.2996394,12.803621,-1.113495)">
+	
+	
+	
+	
+	
+<path
+   style="fill:#ffd42a;stroke-width:0.09044"
+   d="M 14.052978,77.096957 C 11.881046,76.859455 9.9066776,76.361269 8.6597551,75.736102 4.5709787,73.686121 1.5494379,66.329714 0.4904622,55.8467 0.19684951,52.94017 0.15452596,52.096338 0.10642468,48.189903 0.0233682,41.444658 0.42410549,36.111658 1.4815015,29.89042 3.4771988,18.148644 7.2762002,9.1187348 12.21188,4.3852059 15.3129,1.4111947 18.508427,0.3314577 23.549178,0.55444474 33.330555,0.98714219 46.699066,7.9240624 58.639898,18.763019 c 1.74805,1.586744 4.974273,4.816005 6.401268,6.407297 6.32446,7.052628 10.411681,13.969979 11.606186,19.642704 0.341086,1.619823 0.395173,3.729953 0.128657,5.01942 -0.564873,2.732998 -1.991205,5.065248 -4.840385,7.914703 -1.635078,1.635236 -2.66648,2.505297 -4.662247,3.932937 -3.980642,2.847488 -9.571075,5.775374 -15.597359,8.168827 -9.920621,3.940163 -20.996104,6.622192 -30.11652,7.292993 -1.730176,0.127253 -6.175178,0.10064 -7.50652,-0.04494 z"
+   id="path139"
+   transform="matrix(0.41408354,0,0,0.30306342,-5.3017688,0.3374596)" />
+<g
+   id="g219"
+   transform="matrix(0.54457464,0,0,0.4774205,3.9483908,6.0516944)">
+  <path
+     d="m 22.5,9.5 h -21 a 1,1 0 0 1 -1,-1 v -1 C 0.5,5.29 5,3.5 12,3.5 v 0 c 7,0 11.5,1.79 11.5,4 v 1 a 1,1 0 0 1 -1,1 z"
+     style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"
+     id="path176" />
+  <path
+     d="m 1.5,16.5 h 21 a 1,1 0 0 1 1,1 v 0 a 3,3 0 0 1 -3,3 h -17 a 3,3 0 0 1 -3,-3 v 0 a 1,1 0 0 1 1,-1 z"
+     style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"
+     id="path178" />
+  <rect
+     x="1.5"
+     y="14.5"
+     width="21"
+     height="2"
+     rx="1"
+     ry="1"
+     style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"
+     id="rect180" />
+  <path
+     d="m 2.41,11.5 a 1,1 0 0 1 -0.91,-1 v 0 a 1,1 0 0 1 0.91,-1 h 19.18 a 1,1 0 0 1 0.91,1 v 0 a 1,1 0 0 1 -0.91,1"
+     style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"
+     id="path182" />
+  <path
+     d="M 4.5,11.5 H 2 a 1.5,1.5 0 1 0 0,3 h 9.5 a 9.56,9.56 0 0 0 -7,-3 z"
+     style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"
+     id="path184" />
+  <path
+     d="m 22,11.5 h -7.5 c -1.5,0 -3,3 -3,3 H 22 a 1.5,1.5 0 0 0 0,-3 z"
+     style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"
+     id="path186" />
+  <path
+     d="m 4.5,11.5 a 9.56,9.56 0 0 1 7,3 c 0,0 1.5,-3 3,-3"
+     style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"
+     id="path188" />
+  <line
+     x1="11.5"
+     y1="5.5"
+     x2="11"
+     y2="6.5"
+     style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"
+     id="line190" />
+  <line
+     x1="8"
+     y1="5.5"
+     x2="7"
+     y2="6"
+     style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"
+     id="line192" />
+  <line
+     x1="4.5"
+     y1="6.5"
+     x2="4"
+     y2="7.5"
+     style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"
+     id="line194" />
+  <line
+     x1="20"
+     y1="7.5"
+     x2="19.5"
+     y2="6.5"
+     style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"
+     id="line196" />
+  <line
+     x1="15.5"
+     y1="6"
+     x2="16.5"
+     y2="6.5"
+     style="fill:none;stroke:#303c42;stroke-linecap:round;stroke-linejoin:round"
+     id="line198" />
+</g>
+</g>
+  </g>
+  <style
+     type="text/css"
+     id="style110">
+	.st0{fill:none;stroke:#303C42;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+</svg>
